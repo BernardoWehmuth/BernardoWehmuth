@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 📖 I’m currently learning Software Engineering 
+- 📖 I’m studying Software Engineering 
 - 🤖 Current Language: Java with Spring Framework and SQL
-- 📫 How to reach me: bernardowehmuth1109@gmail.com
+- 💻 Software Engineer
 
 <div>
   <a href="https://github.com/BernardoWehmuth">
