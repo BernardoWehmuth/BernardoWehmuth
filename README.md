@@ -20,7 +20,7 @@
 
 <p align="start" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongo,mysql" />
   </a>
 </p>
   
