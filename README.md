@@ -5,13 +5,6 @@
 - 💻 Software Engineer
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/BernardoWehmuth">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=BernardoWehmuth&show_icons=true&theme=dark&include_all_commits=true&count_private=false"
-      style="border-right: 2px solid #444; padding-right: 15px; margin-right: 15px;"
-    />
-  </a>
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoWehmuth&layout=compact&langs_count=16&theme=dark"
