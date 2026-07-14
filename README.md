@@ -1,15 +1,9 @@
 ## Hi there 👋
 
 - 📖 I’m studying Software Engineering 
-- 🤖 Current Language: Java with Spring Framework and SQL
+- 🤖 Current Language: Java with Spring Framework and SQL | Javascript and TypeScript with React Framework
 - 💻 Software Engineer
 
-<div style="display: flex; align-items: center;">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoWehmuth&layout=compact&langs_count=16&theme=dark"
-  />
-</div>
 
 <p align="start" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
