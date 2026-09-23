@@ -1,20 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-- 📖 I’m studying Software Engineering 
-- 🤖 Current Language: Java with Spring Framework and SQL | Javascript and TypeScript with React Framework
-- 💻 Software Engineer
+<h1>Olá, eu sou Bernardo Wehmuth 👋</h1>
+<p>Desenvolvedor Full-stack · Jaraguá do Sul, Brasil</p>
 
+---
 
-<p align="start" style="margin-top: 20px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongo,mysql" />
-  </a>
-</p>
-  
-## ***Contact***
+### Sobre mim
 
-<div>
-  <a href="mailto:bernardowehmuth1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/be_wehmuth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bernardo-wehmuth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+Desenvolvedor full-stack apaixonado por construir produtos completos, do banco de dados à interface.<br>
+Gosto de código limpo, boas arquiteturas e aplicações que resolvem problemas reais.
+
+🔭 Atualmente trabalhando na **GeoVendas**<br>
+🌱 Aprendendo **React · Java · Spring · Docker · JavaScript · TypeScript**<br>
+
+---
+
+### Tech stack
+
+**Front-end**
+
+[![Front-end](https://skillicons.dev/icons?i=js,ts,react,tailwind)](https://skillicons.dev)
+
+**Back-end**
+
+[![Back-end](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+**Banco de dados**
+
+[![Bancos de dados](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/H2-1021FF?style=for-the-badge&logoColor=white" alt="H2" height="48" />
+
+**DevOps**
+
+[![DevOps](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+---
+
+### Estatísticas
+
+<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+
+---
+
+### Contato
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://seuportfolio.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+
 </div>
