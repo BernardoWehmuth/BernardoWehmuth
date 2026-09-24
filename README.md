@@ -45,8 +45,7 @@ Gosto de código limpo, boas arquiteturas e aplicações que resolvem problemas 
 
 ### Contato
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://seuportfolio.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+<a href="https://linkedin.com/in/bernardo-wehmuth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bernardowehmuth1109@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
